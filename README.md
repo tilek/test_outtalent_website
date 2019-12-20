@@ -69,12 +69,14 @@ Examples of companies we helped get jobs at:
 
 ### What is a time commitment for Outtalent?
 
-You need to be able to spend 20 hours a week for 2 months.
-Most of our meetings happen 19:30-21:30 Moscow time / 18:30-20:30 Kiev time Monday-Saturday.
+- You need to be able to spend 20 hours a week for 2 months.
+- Most of our meetings happen 19:30-21:30 Moscow time / 18:30-20:30 Kiev time Monday-Saturday.
 
 ### What is our price?
 
-You will pay 7% of pre-tax salary for 2 years, but only if we help you get a job abroad that pays $80,000 / year pre-tax salary or more.
+- You will pay 7% of pre-tax salary for 2 years, 
+- but only if and after we help you get a high-paying job abroad,
+- "High-paying" is defined based on your seniority level.
 
 ### How to apply to Outtalent?
 
